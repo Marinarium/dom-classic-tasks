@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Change properties</title>
+    <link rel="shortcut icon" href="../favicon.png" type="image/png">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>Изменение свойств элементов страницы</h1>
+<form class="feedback" action="#" method="POST">
+    <fieldset>
+        <legend>Расскажите откуда вы узнали о нас</legend>
+        <label>
+            <input type="radio" name="source" id="news" value="news" checked>
+            <span>Из СМИ</span>
+        </label>
+        <label>
+            <input type="radio" name="source" id="friends" value="friends">
+            <span>Рассказали друзья/знакомые</span>
+        </label>
+        <label>
+            <input type="radio" name="source" id="search" value="search">
+            <span>Из поисковых систем</span>
+        </label>
+        <label>
+            <input type="radio" name="source" id="site" value="site">
+            <span>На сайте организации</span>
+        </label>
+        <label>
+            <input type="radio" name="source" id="share" value="share">
+            <span>Увидел(а) акцию организации</span>
+        </label>
+        <label>
+            <input type="radio" name="source" id="other" value="other">
+            <span>Другое</span>
+        </label>
+        <textarea name="other-answer" id="other-answer" disabled aria-label="Напишите свой вариант ответа">
+        </textarea>
+    </fieldset>
+</form>
+</body>
+</html>
