@@ -12,9 +12,18 @@ By default, the textarea is disabled.
 **Script:** [example][1]  
 **View:** [example][2]
 
+**Situation 2:** We have internal navigation (a list of links / bookmarks). 
+We need to save space on the page. Switching between bookmarks is performed by JavaScript code.
+If we click on a link, we will show an appropriate section and we will hide others.
+
+**Script:** [example][3]  
+**View:** [example][4]
+
 
 ### Add new elements to the DOM
 ### Refactor and code optimization
 
 [1]: https://github.com/Marinarium/dom-classic-tasks/blob/master/change-properties/situation-1/script.js
 [2]: https://marinarium.github.io/dom-classic-tasks/change-properties/situation-1
+[3]: https://github.com/Marinarium/dom-classic-tasks/blob/master/change-properties/situation-2/script.js
+[4]: https://marinarium.github.io/dom-classic-tasks/change-properties/situation-2
