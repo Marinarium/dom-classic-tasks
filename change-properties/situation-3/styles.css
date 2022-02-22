@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 1.5;
+    color: #333;
+}
+
+body {
+    background-color: #D8BFD8;
+    padding: 2em;
+}
+
+.content {
+    margin: auto;
+    padding: 2em 1.5em;
+    background-color: #FFF6FB;
+    border: 1px solid #D6CADB;
+    border-radius: 10px;
+    overflow: hidden;
+    width: min(1000px, 100%);
+}
+
+/* класс для свёрнутого описания */
+.description-short {
+    overflow: hidden;
+    max-height: 100px;
+}
+
+h1 {
+    margin-bottom: 0.5em;
+    color: #CD5092;
+    font-size: 24px;
+}
+
+h2 {
+    margin-top: 1em;
+}
+
+p {
+    margin: 1em 0 0.5em;
+}
+
+ul {
+    margin-left: 2em;
+}
+
+.more {
+    margin-top: 0.5em;
+    display: inline-block;
+    font-weight: 500;
+    padding: 0.5em 0.25em;
+    text-decoration: none;
+    color: #CD5092;
+    transition: 250ms color ease-in-out;
+}
+
+.more:hover {
+    color: #FF70C5;
+}
