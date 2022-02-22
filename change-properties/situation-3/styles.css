@@ -23,7 +23,6 @@ body {
     width: min(1000px, 100%);
 }
 
-/* класс для свёрнутого описания */
 .description-short {
     overflow: hidden;
     max-height: 100px;
@@ -55,6 +54,9 @@ ul {
     text-decoration: none;
     color: #CD5092;
     transition: 250ms color ease-in-out;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
 }
 
 .more:hover {
