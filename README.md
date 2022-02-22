@@ -19,7 +19,10 @@ If we click on a link, we will show an appropriate section and we will hide othe
 **Script:** [link][3]  
 **View:** [link][4]
 
+**Situation 2:** More information can be shown and then hidden again.
 
+**Script:** [link][5]  
+**View:** [link][6]
 ### Add new elements to the DOM
 ### Refactor and code optimization
 
@@ -27,3 +30,5 @@ If we click on a link, we will show an appropriate section and we will hide othe
 [2]: https://marinarium.github.io/dom-classic-tasks/change-properties/situation-1
 [3]: https://github.com/Marinarium/dom-classic-tasks/blob/master/change-properties/situation-2/script.js
 [4]: https://marinarium.github.io/dom-classic-tasks/change-properties/situation-2
+[3]: https://github.com/Marinarium/dom-classic-tasks/blob/master/change-properties/situation-3/script.js
+[4]: https://marinarium.github.io/dom-classic-tasks/change-properties/situation-3
