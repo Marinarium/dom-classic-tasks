@@ -13,4 +13,4 @@ By default, the textarea is disabled.
 ### Add new elements to the DOM
 ### Refactor and code optimization
 
-[1]: https://marinarium.github.io/change-properties/
+[1]: https://marinarium.github.io/dom-classic-tasks/change-properties/
