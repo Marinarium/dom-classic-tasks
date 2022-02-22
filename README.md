@@ -19,7 +19,7 @@ If we click on a link, we will show an appropriate section and we will hide othe
 **Script:** [link][3]  
 **View:** [link][4]
 
-**Situation 2:** More information can be shown and then hidden again.
+**Situation 3:** More information can be shown and then hidden again.
 
 **Script:** [link][5]  
 **View:** [link][6]
