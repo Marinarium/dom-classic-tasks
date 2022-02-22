@@ -9,15 +9,15 @@ If the user choose an option "Other",
 a textarea will be editable. 
 By default, the textarea is disabled.  
 
-**Script:** [example][1]  
-**View:** [example][2]
+**Script:** [link][1]  
+**View:** [link][2]
 
 **Situation 2:** We have internal navigation (a list of links / bookmarks). 
 We need to save space on the page. Switching between bookmarks is performed by JavaScript code.
 If we click on a link, we will show an appropriate section and we will hide others.
 
-**Script:** [example][3]  
-**View:** [example][4]
+**Script:** [link][3]  
+**View:** [link][4]
 
 
 ### Add new elements to the DOM
