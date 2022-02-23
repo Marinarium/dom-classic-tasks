@@ -39,4 +39,4 @@ with the same html structure but different content.
 [5]: https://github.com/Marinarium/dom-classic-tasks/blob/master/change-properties/situation-3/script.js
 [6]: https://marinarium.github.io/dom-classic-tasks/change-properties/situation-3
 [7]: https://github.com/Marinarium/dom-classic-tasks/blob/master/add-elements/situation-1/script.js
-[8]: https://marinarium.github.io/dom-classic-tasks/add-element/situation-1
+[8]: https://marinarium.github.io/dom-classic-tasks/add-elements/situation-1
