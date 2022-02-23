@@ -25,7 +25,7 @@ If we click on a link, we will show an appropriate section and we will hide othe
 **View:** [link][6]
 
 ### Add new elements to the DOM
-**Situation 1:** We should adda group of elements 
+**Situation 1:** We should add a group of elements 
 with the same html structure but different content.
 
 **Script:** [link][7]  
