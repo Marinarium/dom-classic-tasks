@@ -23,7 +23,13 @@ If we click on a link, we will show an appropriate section and we will hide othe
 
 **Script:** [link][5]  
 **View:** [link][6]
+
 ### Add new elements to the DOM
+**Situation 1:** We should adda group of elements 
+with the same html structure but different content.
+
+**Script:** [link][7]  
+**View:** [link][8]
 ### Refactor and code optimization
 
 [1]: https://github.com/Marinarium/dom-classic-tasks/blob/master/change-properties/situation-1/script.js
@@ -32,3 +38,5 @@ If we click on a link, we will show an appropriate section and we will hide othe
 [4]: https://marinarium.github.io/dom-classic-tasks/change-properties/situation-2
 [5]: https://github.com/Marinarium/dom-classic-tasks/blob/master/change-properties/situation-3/script.js
 [6]: https://marinarium.github.io/dom-classic-tasks/change-properties/situation-3
+[7]: https://github.com/Marinarium/dom-classic-tasks/blob/master/add-elements/situation-1/script.js
+[8]: https://marinarium.github.io/dom-classic-tasks/add-element/situation-1
