@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Change properties 4</title>
+    <link rel="icon" href="../../favicon.png" type="image/png">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main>
+    <section class="editor">
+        <h1>Редактор</h1>
+        <ul class="editor__toolbar toolbar js-buttons-container">
+            <li>
+                <button class="toolbar__button toolbar__button--brightness" data-setting-target=".img" data-setting-cmd="brightness" type="button">&#9728;</button>
+            </li>
+            <li>
+                <button class="toolbar__button toolbar__button--contrast" data-setting-target=".img" data-setting-cmd="contrast" type="button">&#9681;</button>
+            </li>
+            <li>
+                <button class="toolbar__button toolbar__button--blur" data-setting-target=".img" data-setting-cmd="blur" type="button">&#9729;</button>
+            </li>
+            <li>
+                <button class="toolbar__button toolbar__button--black-white" data-setting-target=".img" data-setting-cmd="black-white" type="button">&#9775;</button>
+            </li>
+            <li>
+                <button class="toolbar__button toolbar__button--bold" data-setting-target=".text" data-setting-cmd="bold" type="button">B</button>
+            </li>
+            <li>
+                <button class="toolbar__button toolbar__button--italic" data-setting-target=".text" data-setting-cmd="italic" type="button">I</button>
+            </li>
+            <li>
+                <button class="toolbar__button toolbar__button--underline" data-setting-target=".text" data-setting-cmd="underline" type="button">U</button>
+            </li>
+            <li>
+                <button class="toolbar__button toolbar__button--strikethrough" data-setting-target=".text" data-setting-cmd="strikethrough" type="button">ab</button>
+            </li>
+        </ul>
+        <div class="editor__content">
+            <img class="img" src="https://source.unsplash.com/user/hyneseyes" alt="Рандомная картинка">
+            <p class="text">Лови момент, детка!</p>
+        </div>
+    </section>
+</main>
+<script src="script.js"></script>
+</body>
+</html>
